@@ -1,0 +1,39 @@
+**Title:** *My Transformative Web Development Internship Journey with Oasis Infobyte*
+
+Dear LinkedIn Community,
+
+I'm thrilled to share my recent internship experience with Oasis Infobyte, an adventure that has been nothing short of enlightening. This internship allowed me to bridge the gap between academic knowledge and real-world applications, all while diving into the dynamic realm of web development.
+
+**Introduction**
+
+I am Atharva Khodke, currently pursuing a Bachelor's degree in Computer Science Engineering at Pune Institute of Computer Technology. During my fifth semester, the doors to an exciting opportunity swung wide open, thanks to a college friend who introduced me to Oasis Infobyte. Without hesitation, I registered for their Web Development and Designing internship.
+
+**A Journey of Growth**
+
+Although I possessed some foundational knowledge in web development, this internship was a game-changer. It empowered me to bolster my skills and tackle a series of challenging tasks. Over the course of the internship, I successfully completed all the tasks, truly enhancing my expertise in the field.
+
+**The Tasks I Undertook**
+
+The internship presented three levels of tasks, and I opted for Level 2, which included:
+
+1. **Calculator App:** I designed a functional Calculator App. You can view it on GitHub [here](https://github.com/Atharvajk/OIBSIP_TASK1).
+
+2. **Tribute Page:** I created an engaging Tribute Page. Check it out on GitHub [here](https://github.com/Atharvajk/OIBSIP_TASK2).
+
+3. **To-Do App:** I developed a practical To-Do App. You can explore it on GitHub [here](https://github.com/Atharvajk/OIBSIP_TASK3).
+
+4. **Login Authentication:** I implemented a robust Login Authentication system. Find the details on GitHub [here](https://github.com/Atharvajk/OIBSIP_TASK4).
+
+**Recommendation to Aspiring Developers**
+
+I wholeheartedly recommend this internship to anyone looking to gain valuable knowledge and hands-on experience. Oasis Infobyte's program is the perfect opportunity to hone your skills, work on exciting projects, and bolster your career prospects. The experience I gained here is certain to be a significant asset to my future endeavors.
+
+**Connect with Oasis Infobyte**
+
+If you're curious to learn more, visit their website at [http://oasisinfobyte.com/](http://oasisinfobyte.com/).
+
+I extend my heartfelt gratitude to Oasis Infobyte for this incredible opportunity that has undoubtedly shaped my journey as a web developer.
+
+Thank you, #oasisinfobyte, for this remarkable experience!
+
+#WebDevelopment #InternshipExperience #OasisInfobyte #LearningAndGrowth
